@@ -1,3 +1,3 @@
-# DSA---Riyaj-Tamboli
+# DSA - Riyaj-Tamboli
 
 # author - Riyaz Tamboli
